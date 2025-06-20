@@ -1,8 +1,15 @@
+# Core ML/vision libraries
 torch
-numpy
-opencv-contrib-python
 torchvision
 einops
 timm
+Pillow
+numpy
 matplotlib
+
+# Image processing (only one OpenCV variant should be used!)
+opencv-python-headless==4.8.1.78
+
+# Streamlit
+streamlit
 altair<5
