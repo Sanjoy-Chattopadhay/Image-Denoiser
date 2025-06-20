@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+*.zip
+*.png
+*.pth
+denoised_output/
+unzipped_dataset/
+test1.png
